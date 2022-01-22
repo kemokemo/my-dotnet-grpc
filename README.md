@@ -10,7 +10,7 @@ docker build -t my-dotnet-grpc .
 
 You can not start ASP.Net Core gRPC app on macOS.
 
-> // Additional configuration is required to successfully run gRPC on macOS.
+> // Additional configuration is required to successfully run gRPC on macOS.  
 > // For instructions on how to configure Kestrel and gRPC clients on macOS, visit https://go.microsoft.com/fwlink/?linkid=2099682
 
 ## Run
